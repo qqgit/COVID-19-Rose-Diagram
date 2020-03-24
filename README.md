@@ -1,5 +1,5 @@
 # COVID-19-Rose-Diagram
-Nightingale rose diagram plot for COVID-19，绘制新型冠状病毒肺炎疫情的南丁格尔玫瑰图。
+Nightingale rose diagram plot for COVID-19 (NCP/2019-nCov/SARS-CoV-2)，绘制新型冠状病毒肺炎疫情的南丁格尔玫瑰图（也有把它叫做蜗牛图、鸡冠花图、彩虹图的）。
 
 可以参考[用PYTHON绘制海外新冠肺炎疫情的南丁格尔玫瑰图](https://qcloud.fun/2020/03/23/covid-19-rose-diagram-with-python/)。
 
