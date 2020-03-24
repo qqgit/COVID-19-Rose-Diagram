@@ -26,5 +26,6 @@ python qplot.py
 运行之后会在与qplot.py同目录下生成一个html文件，用浏览器打开文件即可看到玫瑰图。
 
 另一种是通过jupyter notebook打开rose_diagram.ipynb，然后逐行运行即可。
+![在jupyter notebook中渲染玫瑰图](https://github.com/qqgit/COVID-19-Rose-Diagram/blob/master/rose-diagram-render-notebook.PNG)
 
 推荐使用juypter notebook方式，便于自己发挥。
