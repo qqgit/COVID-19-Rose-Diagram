@@ -6,7 +6,7 @@ Nightingale rose diagram plot for COVID-19 (NCP/2019-nCov/SARS-CoV-2)，绘制�
 本项目的代码运行后会生成海外确认人数过千诸国的确诊病例数疫情玫瑰图。
 ![海外诸国确诊人数玫瑰图](https://github.com/qqgit/COVID-19-Rose-Diagram/blob/master/rose-diagram.PNG)
 
-如果想要生成其他数据（例如显存确诊病例数、治愈人数、死亡人数等）的玫瑰图，只需要稍作修改，选择对应的数据列即可。
+如果想要生成其他数据（例如现存确诊病例数、治愈人数、死亡人数等）的玫瑰图，只需要稍作修改，选择对应的数据列即可。
 
 # Data Source 数据源
 使用BlankerL童鞋提供的[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)作为数据源。
