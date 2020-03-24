@@ -4,7 +4,7 @@ Nightingale rose diagram plot for COVID-19，绘制新型冠状病毒肺炎疫�
 可以参考[用PYTHON绘制海外新冠肺炎疫情的南丁格尔玫瑰图](https://qcloud.fun/2020/03/23/covid-19-rose-diagram-with-python/)。
 
 本项目的代码运行后会生成海外确认人数过千诸国的确诊病例数疫情玫瑰图。
-![海外诸国确诊人数玫瑰图](https://github.com/qqgit/COVID-19-Rose-Diagram/blob/master/rose-diagram.PNG)
+![海外诸国确诊人数玫瑰图](https://qcloud.fun/blog_admin/images/16/)
 
 如果想要生成其他数据（例如显存确诊病例数、治愈人数、死亡人数等）的玫瑰图，只需要稍作修改，选择对应的数据列即可。
 
