@@ -17,12 +17,12 @@ Nightingale rose diagram plot for COVID-19，绘制新型冠状病毒肺炎疫�
 
 pip install pyecharts
 
-两种使用方式，一种是直接下载qplot.py文件，在命令行运行
+两种使用方式，一种是直接下载rose_diagram.py文件，在命令行运行
 
 python qplot.py
 
 运行之后会在与qplot.py同目录下生成一个html文件，用浏览器打开文件即可看到玫瑰图。
 
-另一种是通过jupyter notebook打开qplot.ipynb，然后逐行运行即可。
+另一种是通过jupyter notebook打开rose_diagram.ipynb，然后逐行运行即可。
 
 推荐使用juypter notebook方式，便于自己发挥。
